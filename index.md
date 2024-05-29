@@ -21,7 +21,7 @@ Smart home features, including Alexa-enabled lighting, enhance the convenience a
 ![Living Room](7.jpeg)
 ![Living Room](8.jpeg)
 ![Living Room](9.jpeg)
-![Living Room](1o.jpeg)
+![Living Room](10.jpeg)
 
 
 

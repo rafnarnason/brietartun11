@@ -10,7 +10,7 @@ The bathroom is contemporary, featuring a spacious walk-in shower with a luxurio
 Smart home features, including Alexa-enabled lighting, enhance the convenience and ambiance of the apartment, making it an ideal choice for both business and leisure stays.
 
 ## Request a quote
-Send me a line describing who you are and how long you need - minimum 1 month @rafnarnason
+Send me a line describing who you are and how long you need - minimum 1 month - @rafnarnason
 
 ![Building](cover.jpeg)
 ![Entrance](entrance.jpeg)

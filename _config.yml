@@ -1,9 +1,7 @@
 # _config.yml
 
-- theme: minima
-+ remote_theme: jekyll/minima
-
-  plugins:
-+ - jekyll-remote-theme
-
+theme: minima
+remote_theme: jekyll/minima
+plugins:
+- jekyll-remote-theme
 google_analytics: [443564833]

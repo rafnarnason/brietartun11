@@ -1,13 +1,3 @@
-```html
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-C3D4DFMJ9M"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-C3D4DFMJ9M');
-</script>
-
 # Bríetartún 11 - Top Floor Retreat
 
 ## Description
@@ -37,7 +27,15 @@ Send me a line describing who you are and how long you need - minimum 1 month - 
 ![Living Room](10.jpeg)
 
 
+```html
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C3D4DFMJ9M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-
+  gtag('config', 'G-C3D4DFMJ9M');
+</script>
+```
 
 

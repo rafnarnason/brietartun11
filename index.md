@@ -8,7 +8,7 @@
 </script>
 # Bríetartún 11 - Top Floor Retreat
 ![Building](cover.jpeg)
-## TLDR
+## TL;DR
 The apartment is ideal for one person and offers the following highlights:
 
 - Centrally located in Reykjavik

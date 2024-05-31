@@ -8,6 +8,15 @@
 </script>
 # Bríetartún 11 - Top Floor Retreat
 ![Building](cover.jpeg)
+## TLDR
+The apartment is ideal for one person and offers the following highlights:
+
+- Centrally located in Reykjavik
+- Modern amenities
+- Spacious and comfortable living area
+- High-speed internet access
+- Awesome home cinema system
+
 ## Description
 This modern top-floor apartment is designed for both comfort and style. The living area features heated floors and a cozy setup with a queen-size bed that easily tucks away, a designer couch, and a 175-inch 4K projection screen for movie nights. Large windows offer breathtaking city views, including iconic landmarks like Perlan and Hallgrímskirkja.
 

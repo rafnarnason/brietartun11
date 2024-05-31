@@ -20,8 +20,11 @@ Smart home features, including Alexa-enabled lighting, enhance the convenience a
 ## Get in touch
 You can find me and get a quote at:
 <a href="https://www.linkedin.com/in/rafnarnason/" target="_blank">https://www.linkedin.com/in/rafnarnason/</a>
+
 <a href="https://www.facebook.com/rafnarnason" target="_blank">https://www.facebook.com/rafnarnason</a>
+
 <a href="https://x.com/rafnarnason" target="_blank">https://x.com/rafnarnason</a>
+
 
 
 
@@ -38,11 +41,13 @@ You can find me and get a quote at:
 ![Living Room](9.jpeg)
 ![Living Room](10.jpeg)
 
+
 ## Get in touch
 You can find me and get a quote at:
 <a href="https://www.linkedin.com/in/rafnarnason/" target="_blank">https://www.linkedin.com/in/rafnarnason/</a>
-<a href="https://www.facebook.com/rafnarnason" target="_blank">https://www.facebook.com/rafnarnason</a>
-<a href="https://x.com/rafnarnason" target="_blank">https://x.com/rafnarnason</a>
 
+<a href="https://www.facebook.com/rafnarnason" target="_blank">https://www.facebook.com/rafnarnason</a>
+
+<a href="https://x.com/rafnarnason" target="_blank">https://x.com/rafnarnason</a>
 
 
